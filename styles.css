@@ -23,12 +23,6 @@ body {
   height: 200px;
 }
 
-.stats {
-  /* text-align: left;
-  max-width: 600;
-  margin: 0 auto; */
-}
-
 .stats ul {
   list-style: none;
   padding: 0;
