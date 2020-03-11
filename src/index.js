@@ -9,7 +9,7 @@ engine.init()
 const hello = name => {
   'warp +server -client'
 
-  return `Hello World!`
+  return `Hello ${name} from Node.js ${process.version}`
 }
 
 /** Get cpu/mem usage */
